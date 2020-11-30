@@ -1,0 +1,10 @@
+D:\C#\PRN292\Lab04_LT_SinhVien\Lab04_LT_SinhVien\bin\Debug\Lab04_LT_SinhVien.exe.config
+D:\C#\PRN292\Lab04_LT_SinhVien\Lab04_LT_SinhVien\bin\Debug\Lab04_LT_SinhVien.exe
+D:\C#\PRN292\Lab04_LT_SinhVien\Lab04_LT_SinhVien\bin\Debug\Lab04_LT_SinhVien.pdb
+D:\C#\PRN292\Lab04_LT_SinhVien\Lab04_LT_SinhVien\obj\Debug\Lab04_LT_SinhVien.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab04_LT_SinhVien\Lab04_LT_SinhVien\obj\Debug\Lab04_LT_SinhVien.Form1.resources
+D:\C#\PRN292\Lab04_LT_SinhVien\Lab04_LT_SinhVien\obj\Debug\Lab04_LT_SinhVien.Properties.Resources.resources
+D:\C#\PRN292\Lab04_LT_SinhVien\Lab04_LT_SinhVien\obj\Debug\Lab04_LT_SinhVien.csproj.GenerateResource.cache
+D:\C#\PRN292\Lab04_LT_SinhVien\Lab04_LT_SinhVien\obj\Debug\Lab04_LT_SinhVien.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab04_LT_SinhVien\Lab04_LT_SinhVien\obj\Debug\Lab04_LT_SinhVien.exe
+D:\C#\PRN292\Lab04_LT_SinhVien\Lab04_LT_SinhVien\obj\Debug\Lab04_LT_SinhVien.pdb

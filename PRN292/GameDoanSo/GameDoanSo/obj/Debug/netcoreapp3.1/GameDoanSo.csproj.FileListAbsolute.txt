@@ -1,0 +1,13 @@
+D:\C#\PRN292\GameDoanSo\GameDoanSo\bin\Debug\netcoreapp3.1\GameDoanSo.exe
+D:\C#\PRN292\GameDoanSo\GameDoanSo\bin\Debug\netcoreapp3.1\GameDoanSo.deps.json
+D:\C#\PRN292\GameDoanSo\GameDoanSo\bin\Debug\netcoreapp3.1\GameDoanSo.runtimeconfig.json
+D:\C#\PRN292\GameDoanSo\GameDoanSo\bin\Debug\netcoreapp3.1\GameDoanSo.runtimeconfig.dev.json
+D:\C#\PRN292\GameDoanSo\GameDoanSo\bin\Debug\netcoreapp3.1\GameDoanSo.dll
+D:\C#\PRN292\GameDoanSo\GameDoanSo\bin\Debug\netcoreapp3.1\GameDoanSo.pdb
+D:\C#\PRN292\GameDoanSo\GameDoanSo\obj\Debug\netcoreapp3.1\GameDoanSo.csprojAssemblyReference.cache
+D:\C#\PRN292\GameDoanSo\GameDoanSo\obj\Debug\netcoreapp3.1\GameDoanSo.AssemblyInfoInputs.cache
+D:\C#\PRN292\GameDoanSo\GameDoanSo\obj\Debug\netcoreapp3.1\GameDoanSo.AssemblyInfo.cs
+D:\C#\PRN292\GameDoanSo\GameDoanSo\obj\Debug\netcoreapp3.1\GameDoanSo.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\GameDoanSo\GameDoanSo\obj\Debug\netcoreapp3.1\GameDoanSo.dll
+D:\C#\PRN292\GameDoanSo\GameDoanSo\obj\Debug\netcoreapp3.1\GameDoanSo.pdb
+D:\C#\PRN292\GameDoanSo\GameDoanSo\obj\Debug\netcoreapp3.1\GameDoanSo.genruntimeconfig.cache

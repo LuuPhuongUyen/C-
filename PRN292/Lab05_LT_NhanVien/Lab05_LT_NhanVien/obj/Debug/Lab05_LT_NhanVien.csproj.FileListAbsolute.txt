@@ -1,0 +1,10 @@
+D:\C#\PRN292\Lab05_LT_NhanVien\Lab05_LT_NhanVien\bin\Debug\Lab05_LT_NhanVien.exe.config
+D:\C#\PRN292\Lab05_LT_NhanVien\Lab05_LT_NhanVien\bin\Debug\Lab05_LT_NhanVien.exe
+D:\C#\PRN292\Lab05_LT_NhanVien\Lab05_LT_NhanVien\bin\Debug\Lab05_LT_NhanVien.pdb
+D:\C#\PRN292\Lab05_LT_NhanVien\Lab05_LT_NhanVien\obj\Debug\Lab05_LT_NhanVien.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab05_LT_NhanVien\Lab05_LT_NhanVien\obj\Debug\Lab05_LT_NhanVien.Form1.resources
+D:\C#\PRN292\Lab05_LT_NhanVien\Lab05_LT_NhanVien\obj\Debug\Lab05_LT_NhanVien.Properties.Resources.resources
+D:\C#\PRN292\Lab05_LT_NhanVien\Lab05_LT_NhanVien\obj\Debug\Lab05_LT_NhanVien.csproj.GenerateResource.cache
+D:\C#\PRN292\Lab05_LT_NhanVien\Lab05_LT_NhanVien\obj\Debug\Lab05_LT_NhanVien.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab05_LT_NhanVien\Lab05_LT_NhanVien\obj\Debug\Lab05_LT_NhanVien.exe
+D:\C#\PRN292\Lab05_LT_NhanVien\Lab05_LT_NhanVien\obj\Debug\Lab05_LT_NhanVien.pdb

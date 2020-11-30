@@ -1,0 +1,4 @@
+David Peter, 12, 123-US, 1, 123-123342, david@address.com, 1-12-1280
+Susan Daily, 23, 45-Indian, 0, 123-123456, susan@address.com, 1-12-1982
+Aa,12,123 ABC,0,0123456789,a@a.a,16-11-2020
+Uyen,20,33 NT,2,0987654321,u@gmail.com,07-10-2020

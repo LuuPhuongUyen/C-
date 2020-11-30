@@ -1,0 +1,15 @@
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\bin\Debug\Lab06_LT_MDI.exe.config
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\bin\Debug\Lab06_LT_MDI.exe
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\bin\Debug\Lab06_LT_MDI.pdb
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\bin\Debug\Interop.WMPLib.dll
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\obj\Debug\Lab06_LT_MDI.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\obj\Debug\Interop.WMPLib.dll
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\obj\Debug\Lab06_LT_MDI.csproj.ResolveComReference.cache
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\obj\Debug\Lab06_LT_MDI.frmChuongtrinhxemphim.resources
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\obj\Debug\Lab06_LT_MDI.Properties.Resources.resources
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\obj\Debug\Lab06_LT_MDI.csproj.GenerateResource.cache
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\obj\Debug\Lab06_LT_MDI.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\obj\Debug\Lab06_LT_MDI.exe
+D:\C#\PRN292\Lab06_LT_MDI\Lab06_LT_MDI\obj\Debug\Lab06_LT_MDI.pdb

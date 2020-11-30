@@ -1,0 +1,12 @@
+D:\C#\PRN292\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.exe
+D:\C#\PRN292\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+D:\C#\PRN292\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.json
+D:\C#\PRN292\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.dev.json
+D:\C#\PRN292\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+D:\C#\PRN292\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+D:\C#\PRN292\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+D:\C#\PRN292\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+D:\C#\PRN292\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+D:\C#\PRN292\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
+D:\C#\PRN292\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.genruntimeconfig.cache

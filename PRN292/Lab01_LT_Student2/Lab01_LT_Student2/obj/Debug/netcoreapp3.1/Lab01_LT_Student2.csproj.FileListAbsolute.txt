@@ -1,0 +1,12 @@
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\bin\Debug\netcoreapp3.1\Lab01_LT_Student2.exe
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\bin\Debug\netcoreapp3.1\Lab01_LT_Student2.deps.json
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\bin\Debug\netcoreapp3.1\Lab01_LT_Student2.runtimeconfig.json
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\bin\Debug\netcoreapp3.1\Lab01_LT_Student2.runtimeconfig.dev.json
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\bin\Debug\netcoreapp3.1\Lab01_LT_Student2.dll
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\bin\Debug\netcoreapp3.1\Lab01_LT_Student2.pdb
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\obj\Debug\netcoreapp3.1\Lab01_LT_Student2.AssemblyInfoInputs.cache
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\obj\Debug\netcoreapp3.1\Lab01_LT_Student2.AssemblyInfo.cs
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\obj\Debug\netcoreapp3.1\Lab01_LT_Student2.csproj.CoreCompileInputs.cache
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\obj\Debug\netcoreapp3.1\Lab01_LT_Student2.dll
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\obj\Debug\netcoreapp3.1\Lab01_LT_Student2.pdb
+D:\C#\Lab01_LT_Student2\Lab01_LT_Student2\obj\Debug\netcoreapp3.1\Lab01_LT_Student2.genruntimeconfig.cache

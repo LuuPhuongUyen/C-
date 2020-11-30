@@ -1,0 +1,6 @@
+D:\C#\PRN292\MyBookLibrary\MyBookLibrary\bin\Debug\MyBookLibrary.dll
+D:\C#\PRN292\MyBookLibrary\MyBookLibrary\bin\Debug\MyBookLibrary.pdb
+D:\C#\PRN292\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.dll
+D:\C#\PRN292\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.pdb
+D:\C#\PRN292\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.csprojAssemblyReference.cache

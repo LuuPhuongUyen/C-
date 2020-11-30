@@ -1,0 +1,24 @@
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\bin\Debug\BT_dbConnectSV.exe.config
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\bin\Debug\BT_dbConnectSV.exe
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\bin\Debug\BT_dbConnectSV.pdb
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.csprojAssemblyReference.cache
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.Form1.resources
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.Properties.Resources.resources
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.csproj.GenerateResource.cache
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.csproj.CoreCompileInputs.cache
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.exe
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.pdb
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.Form2.resources
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\BT_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.Form3.resources
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\bin\Debug\BT_dbConnectSV.exe.config
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\bin\Debug\BT_dbConnectSV.exe
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\bin\Debug\BT_dbConnectSV.pdb
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.csprojAssemblyReference.cache
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.Form1.resources
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.Form2.resources
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.Form3.resources
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.Properties.Resources.resources
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.csproj.GenerateResource.cache
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.exe
+D:\C#\PRN292\DB_QuanliSV\BT01_dbConnectSV\BT_dbConnectSV\obj\Debug\BT_dbConnectSV.pdb

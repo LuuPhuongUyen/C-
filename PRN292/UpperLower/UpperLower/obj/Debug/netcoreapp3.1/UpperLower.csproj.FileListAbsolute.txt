@@ -1,0 +1,12 @@
+D:\C#\PRN292\UpperLower\UpperLower\bin\Debug\netcoreapp3.1\UpperLower.exe
+D:\C#\PRN292\UpperLower\UpperLower\bin\Debug\netcoreapp3.1\UpperLower.deps.json
+D:\C#\PRN292\UpperLower\UpperLower\bin\Debug\netcoreapp3.1\UpperLower.runtimeconfig.json
+D:\C#\PRN292\UpperLower\UpperLower\bin\Debug\netcoreapp3.1\UpperLower.runtimeconfig.dev.json
+D:\C#\PRN292\UpperLower\UpperLower\bin\Debug\netcoreapp3.1\UpperLower.dll
+D:\C#\PRN292\UpperLower\UpperLower\bin\Debug\netcoreapp3.1\UpperLower.pdb
+D:\C#\PRN292\UpperLower\UpperLower\obj\Debug\netcoreapp3.1\UpperLower.AssemblyInfoInputs.cache
+D:\C#\PRN292\UpperLower\UpperLower\obj\Debug\netcoreapp3.1\UpperLower.AssemblyInfo.cs
+D:\C#\PRN292\UpperLower\UpperLower\obj\Debug\netcoreapp3.1\UpperLower.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\UpperLower\UpperLower\obj\Debug\netcoreapp3.1\UpperLower.dll
+D:\C#\PRN292\UpperLower\UpperLower\obj\Debug\netcoreapp3.1\UpperLower.pdb
+D:\C#\PRN292\UpperLower\UpperLower\obj\Debug\netcoreapp3.1\UpperLower.genruntimeconfig.cache

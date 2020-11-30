@@ -1,0 +1,30 @@
+C:\Users\Hoang My\source\repos\BT02_QLSV\BT02_QLSV\bin\Debug\BT02_QLSV.exe.config
+C:\Users\Hoang My\source\repos\BT02_QLSV\BT02_QLSV\bin\Debug\BT02_QLSV.exe
+C:\Users\Hoang My\source\repos\BT02_QLSV\BT02_QLSV\bin\Debug\BT02_QLSV.pdb
+C:\Users\Hoang My\source\repos\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.csprojAssemblyReference.cache
+C:\Users\Hoang My\source\repos\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.Form1.resources
+C:\Users\Hoang My\source\repos\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.Properties.Resources.resources
+C:\Users\Hoang My\source\repos\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.csproj.GenerateResource.cache
+C:\Users\Hoang My\source\repos\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Hoang My\source\repos\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.exe
+C:\Users\Hoang My\source\repos\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.pdb
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\bin\Debug\BT02_QLSV.exe.config
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\bin\Debug\BT02_QLSV.exe
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\bin\Debug\BT02_QLSV.pdb
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.csprojAssemblyReference.cache
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.Form1.resources
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.Properties.Resources.resources
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.csproj.GenerateResource.cache
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.exe
+C:\Users\Hoang My\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.pdb
+C:\Users\HoangMy\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\bin\Debug\BT02_QLSV.exe.config
+C:\Users\HoangMy\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\bin\Debug\BT02_QLSV.exe
+C:\Users\HoangMy\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\bin\Debug\BT02_QLSV.pdb
+C:\Users\HoangMy\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.csprojAssemblyReference.cache
+C:\Users\HoangMy\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.Form1.resources
+C:\Users\HoangMy\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.Properties.Resources.resources
+C:\Users\HoangMy\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.csproj.GenerateResource.cache
+C:\Users\HoangMy\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\HoangMy\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.exe
+C:\Users\HoangMy\Dropbox\CN5\PRN292\PRN_Lab\DB_QuanliSV\BT02_QLSV\BT02_QLSV\obj\Debug\BT02_QLSV.pdb

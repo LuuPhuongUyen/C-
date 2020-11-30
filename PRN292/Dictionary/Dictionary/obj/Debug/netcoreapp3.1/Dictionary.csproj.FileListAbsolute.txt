@@ -1,0 +1,13 @@
+D:\C#\PRN292\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+D:\C#\PRN292\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+D:\C#\PRN292\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+D:\C#\PRN292\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+D:\C#\PRN292\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+D:\C#\PRN292\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+D:\C#\PRN292\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache
+D:\C#\PRN292\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+D:\C#\PRN292\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+D:\C#\PRN292\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+D:\C#\PRN292\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+D:\C#\PRN292\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache

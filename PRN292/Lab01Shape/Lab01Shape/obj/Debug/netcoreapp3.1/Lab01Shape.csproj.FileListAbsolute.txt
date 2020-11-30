@@ -1,0 +1,13 @@
+D:\C#\PRN292\Lab01Shape\Lab01Shape\bin\Debug\netcoreapp3.1\Lab01Shape.exe
+D:\C#\PRN292\Lab01Shape\Lab01Shape\bin\Debug\netcoreapp3.1\Lab01Shape.deps.json
+D:\C#\PRN292\Lab01Shape\Lab01Shape\bin\Debug\netcoreapp3.1\Lab01Shape.runtimeconfig.json
+D:\C#\PRN292\Lab01Shape\Lab01Shape\bin\Debug\netcoreapp3.1\Lab01Shape.runtimeconfig.dev.json
+D:\C#\PRN292\Lab01Shape\Lab01Shape\bin\Debug\netcoreapp3.1\Lab01Shape.dll
+D:\C#\PRN292\Lab01Shape\Lab01Shape\bin\Debug\netcoreapp3.1\Lab01Shape.pdb
+D:\C#\PRN292\Lab01Shape\Lab01Shape\obj\Debug\netcoreapp3.1\Lab01Shape.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab01Shape\Lab01Shape\obj\Debug\netcoreapp3.1\Lab01Shape.AssemblyInfoInputs.cache
+D:\C#\PRN292\Lab01Shape\Lab01Shape\obj\Debug\netcoreapp3.1\Lab01Shape.AssemblyInfo.cs
+D:\C#\PRN292\Lab01Shape\Lab01Shape\obj\Debug\netcoreapp3.1\Lab01Shape.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab01Shape\Lab01Shape\obj\Debug\netcoreapp3.1\Lab01Shape.dll
+D:\C#\PRN292\Lab01Shape\Lab01Shape\obj\Debug\netcoreapp3.1\Lab01Shape.pdb
+D:\C#\PRN292\Lab01Shape\Lab01Shape\obj\Debug\netcoreapp3.1\Lab01Shape.genruntimeconfig.cache

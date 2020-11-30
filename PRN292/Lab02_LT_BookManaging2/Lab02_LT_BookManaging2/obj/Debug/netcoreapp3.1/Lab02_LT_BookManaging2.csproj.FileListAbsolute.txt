@@ -1,0 +1,12 @@
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\bin\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.exe
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\bin\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.deps.json
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\bin\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.runtimeconfig.json
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\bin\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.runtimeconfig.dev.json
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\bin\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.dll
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\bin\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.pdb
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\obj\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.AssemblyInfoInputs.cache
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\obj\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.AssemblyInfo.cs
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\obj\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\obj\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.dll
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\obj\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.pdb
+D:\C#\PRN292\Lab02_LT_BookManaging2\Lab02_LT_BookManaging2\obj\Debug\netcoreapp3.1\Lab02_LT_BookManaging2.genruntimeconfig.cache

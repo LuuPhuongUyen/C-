@@ -1,0 +1,16 @@
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\bin\Debug\netcoreapp3.1\Lab02BookManagement.exe
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\bin\Debug\netcoreapp3.1\Lab02BookManagement.deps.json
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\bin\Debug\netcoreapp3.1\Lab02BookManagement.runtimeconfig.json
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\bin\Debug\netcoreapp3.1\Lab02BookManagement.runtimeconfig.dev.json
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\bin\Debug\netcoreapp3.1\Lab02BookManagement.dll
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\bin\Debug\netcoreapp3.1\Lab02BookManagement.pdb
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\bin\Debug\netcoreapp3.1\MyBookLibrary.dll
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\bin\Debug\netcoreapp3.1\MyBookLibrary.pdb
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\obj\Debug\netcoreapp3.1\Lab02BookManagement.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\obj\Debug\netcoreapp3.1\Lab02BookManagement.AssemblyInfoInputs.cache
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\obj\Debug\netcoreapp3.1\Lab02BookManagement.AssemblyInfo.cs
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\obj\Debug\netcoreapp3.1\Lab02BookManagement.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\obj\Debug\netcoreapp3.1\Lab02BookManagement.csproj.CopyComplete
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\obj\Debug\netcoreapp3.1\Lab02BookManagement.dll
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\obj\Debug\netcoreapp3.1\Lab02BookManagement.pdb
+D:\C#\PRN292\Lab02BookManagement\Lab02BookManagement\obj\Debug\netcoreapp3.1\Lab02BookManagement.genruntimeconfig.cache

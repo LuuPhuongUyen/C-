@@ -1,0 +1,13 @@
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\obj\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\obj\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.AssemblyInfoInputs.cache
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\obj\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.AssemblyInfo.cs
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\obj\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\bin\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.exe
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\bin\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.deps.json
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\bin\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.runtimeconfig.json
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\bin\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.runtimeconfig.dev.json
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\bin\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.dll
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\bin\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.pdb
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\obj\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.dll
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\obj\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.pdb
+D:\C#\PRN292\Lab02_LT_AccountManaging\Lab02_LT_AccountManaging\obj\Debug\netcoreapp3.1\Lab02_LT_AccountManaging.genruntimeconfig.cache

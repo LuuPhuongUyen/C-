@@ -1,0 +1,10 @@
+D:\C#\PRN292\Lab04_LT_ThaoTacSo\Lab04_LT_ThaoTacSo\bin\Debug\Lab04_LT_ThaoTacSo.exe.config
+D:\C#\PRN292\Lab04_LT_ThaoTacSo\Lab04_LT_ThaoTacSo\bin\Debug\Lab04_LT_ThaoTacSo.exe
+D:\C#\PRN292\Lab04_LT_ThaoTacSo\Lab04_LT_ThaoTacSo\bin\Debug\Lab04_LT_ThaoTacSo.pdb
+D:\C#\PRN292\Lab04_LT_ThaoTacSo\Lab04_LT_ThaoTacSo\obj\Debug\Lab04_LT_ThaoTacSo.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab04_LT_ThaoTacSo\Lab04_LT_ThaoTacSo\obj\Debug\Lab04_LT_ThaoTacSo.Form1.resources
+D:\C#\PRN292\Lab04_LT_ThaoTacSo\Lab04_LT_ThaoTacSo\obj\Debug\Lab04_LT_ThaoTacSo.Properties.Resources.resources
+D:\C#\PRN292\Lab04_LT_ThaoTacSo\Lab04_LT_ThaoTacSo\obj\Debug\Lab04_LT_ThaoTacSo.csproj.GenerateResource.cache
+D:\C#\PRN292\Lab04_LT_ThaoTacSo\Lab04_LT_ThaoTacSo\obj\Debug\Lab04_LT_ThaoTacSo.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab04_LT_ThaoTacSo\Lab04_LT_ThaoTacSo\obj\Debug\Lab04_LT_ThaoTacSo.exe
+D:\C#\PRN292\Lab04_LT_ThaoTacSo\Lab04_LT_ThaoTacSo\obj\Debug\Lab04_LT_ThaoTacSo.pdb

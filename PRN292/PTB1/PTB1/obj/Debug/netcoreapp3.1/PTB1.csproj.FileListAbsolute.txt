@@ -1,0 +1,12 @@
+D:\C#\PRN292\PTB1\PTB1\bin\Debug\netcoreapp3.1\PTB1.exe
+D:\C#\PRN292\PTB1\PTB1\bin\Debug\netcoreapp3.1\PTB1.deps.json
+D:\C#\PRN292\PTB1\PTB1\bin\Debug\netcoreapp3.1\PTB1.runtimeconfig.json
+D:\C#\PRN292\PTB1\PTB1\bin\Debug\netcoreapp3.1\PTB1.runtimeconfig.dev.json
+D:\C#\PRN292\PTB1\PTB1\bin\Debug\netcoreapp3.1\PTB1.dll
+D:\C#\PRN292\PTB1\PTB1\bin\Debug\netcoreapp3.1\PTB1.pdb
+D:\C#\PRN292\PTB1\PTB1\obj\Debug\netcoreapp3.1\PTB1.AssemblyInfoInputs.cache
+D:\C#\PRN292\PTB1\PTB1\obj\Debug\netcoreapp3.1\PTB1.AssemblyInfo.cs
+D:\C#\PRN292\PTB1\PTB1\obj\Debug\netcoreapp3.1\PTB1.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\PTB1\PTB1\obj\Debug\netcoreapp3.1\PTB1.dll
+D:\C#\PRN292\PTB1\PTB1\obj\Debug\netcoreapp3.1\PTB1.pdb
+D:\C#\PRN292\PTB1\PTB1\obj\Debug\netcoreapp3.1\PTB1.genruntimeconfig.cache

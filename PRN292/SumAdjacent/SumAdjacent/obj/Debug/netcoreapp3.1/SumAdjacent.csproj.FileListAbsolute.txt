@@ -1,0 +1,13 @@
+D:\C#\PRN292\SumAdjacent\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.AssemblyInfoInputs.cache
+D:\C#\PRN292\SumAdjacent\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.AssemblyInfo.cs
+D:\C#\PRN292\SumAdjacent\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\SumAdjacent\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.exe
+D:\C#\PRN292\SumAdjacent\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.deps.json
+D:\C#\PRN292\SumAdjacent\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.runtimeconfig.json
+D:\C#\PRN292\SumAdjacent\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.runtimeconfig.dev.json
+D:\C#\PRN292\SumAdjacent\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.dll
+D:\C#\PRN292\SumAdjacent\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.pdb
+D:\C#\PRN292\SumAdjacent\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.dll
+D:\C#\PRN292\SumAdjacent\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.pdb
+D:\C#\PRN292\SumAdjacent\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.genruntimeconfig.cache
+D:\C#\PRN292\SumAdjacent\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.csprojAssemblyReference.cache

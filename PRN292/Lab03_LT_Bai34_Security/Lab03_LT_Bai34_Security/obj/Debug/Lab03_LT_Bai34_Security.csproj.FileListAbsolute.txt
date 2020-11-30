@@ -1,0 +1,10 @@
+D:\C#\PRN292\Lab03_LT_Bai34_Security\Lab03_LT_Bai34_Security\bin\Debug\Lab03_LT_Bai34_Security.exe.config
+D:\C#\PRN292\Lab03_LT_Bai34_Security\Lab03_LT_Bai34_Security\bin\Debug\Lab03_LT_Bai34_Security.exe
+D:\C#\PRN292\Lab03_LT_Bai34_Security\Lab03_LT_Bai34_Security\bin\Debug\Lab03_LT_Bai34_Security.pdb
+D:\C#\PRN292\Lab03_LT_Bai34_Security\Lab03_LT_Bai34_Security\obj\Debug\Lab03_LT_Bai34_Security.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab03_LT_Bai34_Security\Lab03_LT_Bai34_Security\obj\Debug\Lab03_LT_Bai34_Security.Form1.resources
+D:\C#\PRN292\Lab03_LT_Bai34_Security\Lab03_LT_Bai34_Security\obj\Debug\Lab03_LT_Bai34_Security.Properties.Resources.resources
+D:\C#\PRN292\Lab03_LT_Bai34_Security\Lab03_LT_Bai34_Security\obj\Debug\Lab03_LT_Bai34_Security.csproj.GenerateResource.cache
+D:\C#\PRN292\Lab03_LT_Bai34_Security\Lab03_LT_Bai34_Security\obj\Debug\Lab03_LT_Bai34_Security.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab03_LT_Bai34_Security\Lab03_LT_Bai34_Security\obj\Debug\Lab03_LT_Bai34_Security.exe
+D:\C#\PRN292\Lab03_LT_Bai34_Security\Lab03_LT_Bai34_Security\obj\Debug\Lab03_LT_Bai34_Security.pdb

@@ -1,0 +1,10 @@
+D:\C#\PRN292\Lab04_LT_Bai12DentalPayment\Lab04_LT_Bai12DentalPayment\obj\Debug\Lab04_LT_Bai12DentalPayment.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab04_LT_Bai12DentalPayment\Lab04_LT_Bai12DentalPayment\obj\Debug\Lab04_LT_Bai12DentalPayment.Form1.resources
+D:\C#\PRN292\Lab04_LT_Bai12DentalPayment\Lab04_LT_Bai12DentalPayment\obj\Debug\Lab04_LT_Bai12DentalPayment.Properties.Resources.resources
+D:\C#\PRN292\Lab04_LT_Bai12DentalPayment\Lab04_LT_Bai12DentalPayment\obj\Debug\Lab04_LT_Bai12DentalPayment.csproj.GenerateResource.cache
+D:\C#\PRN292\Lab04_LT_Bai12DentalPayment\Lab04_LT_Bai12DentalPayment\obj\Debug\Lab04_LT_Bai12DentalPayment.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab04_LT_Bai12DentalPayment\Lab04_LT_Bai12DentalPayment\bin\Debug\Lab04_LT_Bai12DentalPayment.exe.config
+D:\C#\PRN292\Lab04_LT_Bai12DentalPayment\Lab04_LT_Bai12DentalPayment\bin\Debug\Lab04_LT_Bai12DentalPayment.exe
+D:\C#\PRN292\Lab04_LT_Bai12DentalPayment\Lab04_LT_Bai12DentalPayment\bin\Debug\Lab04_LT_Bai12DentalPayment.pdb
+D:\C#\PRN292\Lab04_LT_Bai12DentalPayment\Lab04_LT_Bai12DentalPayment\obj\Debug\Lab04_LT_Bai12DentalPayment.exe
+D:\C#\PRN292\Lab04_LT_Bai12DentalPayment\Lab04_LT_Bai12DentalPayment\obj\Debug\Lab04_LT_Bai12DentalPayment.pdb

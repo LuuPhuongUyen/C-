@@ -1,0 +1,12 @@
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\bin\Debug\PracticalExamDisk.exe.config
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\bin\Debug\PracticalExamDisk.exe
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\bin\Debug\PracticalExamDisk.pdb
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\obj\Debug\PracticalExamDisk.csprojAssemblyReference.cache
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\obj\Debug\PracticalExamDisk.CapNhatBangDia.resources
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\obj\Debug\PracticalExamDisk.Form1.resources
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\obj\Debug\PracticalExamDisk.Properties.Resources.resources
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\obj\Debug\PracticalExamDisk.TimBangDia.resources
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\obj\Debug\PracticalExamDisk.csproj.GenerateResource.cache
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\obj\Debug\PracticalExamDisk.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\obj\Debug\PracticalExamDisk.exe
+D:\C#\PRN292\PracticalExamDisk\PracticalExamDisk\obj\Debug\PracticalExamDisk.pdb

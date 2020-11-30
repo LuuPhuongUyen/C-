@@ -1,0 +1,10 @@
+C:\Users\PC\Dropbox\D\C#\PRN292\Lab03Employee\Lab03Employee\Lab03Employee\bin\Debug\lab3.exe.config
+C:\Users\PC\Dropbox\D\C#\PRN292\Lab03Employee\Lab03Employee\Lab03Employee\bin\Debug\lab3.exe
+C:\Users\PC\Dropbox\D\C#\PRN292\Lab03Employee\Lab03Employee\Lab03Employee\bin\Debug\lab3.pdb
+C:\Users\PC\Dropbox\D\C#\PRN292\Lab03Employee\Lab03Employee\Lab03Employee\obj\Debug\Lab03Employee.csprojAssemblyReference.cache
+C:\Users\PC\Dropbox\D\C#\PRN292\Lab03Employee\Lab03Employee\Lab03Employee\obj\Debug\lab3.Form1.resources
+C:\Users\PC\Dropbox\D\C#\PRN292\Lab03Employee\Lab03Employee\Lab03Employee\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\PC\Dropbox\D\C#\PRN292\Lab03Employee\Lab03Employee\Lab03Employee\obj\Debug\Lab03Employee.csproj.GenerateResource.cache
+C:\Users\PC\Dropbox\D\C#\PRN292\Lab03Employee\Lab03Employee\Lab03Employee\obj\Debug\Lab03Employee.csproj.CoreCompileInputs.cache
+C:\Users\PC\Dropbox\D\C#\PRN292\Lab03Employee\Lab03Employee\Lab03Employee\obj\Debug\lab3.exe
+C:\Users\PC\Dropbox\D\C#\PRN292\Lab03Employee\Lab03Employee\Lab03Employee\obj\Debug\lab3.pdb

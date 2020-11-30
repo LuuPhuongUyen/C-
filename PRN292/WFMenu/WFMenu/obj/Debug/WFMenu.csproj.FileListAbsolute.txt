@@ -1,0 +1,11 @@
+D:\C#\PRN292\WFMenu\WFMenu\bin\Debug\WFMenu.exe.config
+D:\C#\PRN292\WFMenu\WFMenu\bin\Debug\WFMenu.exe
+D:\C#\PRN292\WFMenu\WFMenu\bin\Debug\WFMenu.pdb
+D:\C#\PRN292\WFMenu\WFMenu\obj\Debug\WFMenu.csprojAssemblyReference.cache
+D:\C#\PRN292\WFMenu\WFMenu\obj\Debug\WFMenu.Form1.resources
+D:\C#\PRN292\WFMenu\WFMenu\obj\Debug\WFMenu.Form2.resources
+D:\C#\PRN292\WFMenu\WFMenu\obj\Debug\WFMenu.Properties.Resources.resources
+D:\C#\PRN292\WFMenu\WFMenu\obj\Debug\WFMenu.csproj.GenerateResource.cache
+D:\C#\PRN292\WFMenu\WFMenu\obj\Debug\WFMenu.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\WFMenu\WFMenu\obj\Debug\WFMenu.exe
+D:\C#\PRN292\WFMenu\WFMenu\obj\Debug\WFMenu.pdb

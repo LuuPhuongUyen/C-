@@ -1,0 +1,12 @@
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\bin\Debug\Lab03_LT_Bai34.exe.config
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\bin\Debug\Lab03_LT_Bai34.exe
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\bin\Debug\Lab03_LT_Bai34.pdb
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\obj\Debug\Lab03_LT_Bai34.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\obj\Debug\Lab03_LT_Bai34.Form1.resources
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\obj\Debug\Lab03_LT_Bai34.Properties.Resources.resources
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\obj\Debug\Lab03_LT_Bai34.csproj.GenerateResource.cache
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\obj\Debug\Lab03_LT_Bai34.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\obj\Debug\Lab03_LT_Bai34.exe
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\obj\Debug\Lab03_LT_Bai34.pdb
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\obj\Debug\Lab03_LT_Bai34.Form2.resources
+D:\C#\PRN292\Lab03_LT_Bai34\Lab03_LT_Bai34\obj\Debug\Lab03_LT_Bai34.Form3.resources

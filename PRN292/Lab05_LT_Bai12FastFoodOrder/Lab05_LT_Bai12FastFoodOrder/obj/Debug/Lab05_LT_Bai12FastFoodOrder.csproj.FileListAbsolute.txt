@@ -1,0 +1,10 @@
+D:\C#\PRN292\Lab05_LT_Bai12FastFoodOrder\Lab05_LT_Bai12FastFoodOrder\bin\Debug\Lab05_LT_Bai12FastFoodOrder.exe.config
+D:\C#\PRN292\Lab05_LT_Bai12FastFoodOrder\Lab05_LT_Bai12FastFoodOrder\bin\Debug\Lab05_LT_Bai12FastFoodOrder.exe
+D:\C#\PRN292\Lab05_LT_Bai12FastFoodOrder\Lab05_LT_Bai12FastFoodOrder\bin\Debug\Lab05_LT_Bai12FastFoodOrder.pdb
+D:\C#\PRN292\Lab05_LT_Bai12FastFoodOrder\Lab05_LT_Bai12FastFoodOrder\obj\Debug\Lab05_LT_Bai12FastFoodOrder.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab05_LT_Bai12FastFoodOrder\Lab05_LT_Bai12FastFoodOrder\obj\Debug\Lab05_LT_Bai12FastFoodOrder.Form1.resources
+D:\C#\PRN292\Lab05_LT_Bai12FastFoodOrder\Lab05_LT_Bai12FastFoodOrder\obj\Debug\Lab05_LT_Bai12FastFoodOrder.Properties.Resources.resources
+D:\C#\PRN292\Lab05_LT_Bai12FastFoodOrder\Lab05_LT_Bai12FastFoodOrder\obj\Debug\Lab05_LT_Bai12FastFoodOrder.csproj.GenerateResource.cache
+D:\C#\PRN292\Lab05_LT_Bai12FastFoodOrder\Lab05_LT_Bai12FastFoodOrder\obj\Debug\Lab05_LT_Bai12FastFoodOrder.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab05_LT_Bai12FastFoodOrder\Lab05_LT_Bai12FastFoodOrder\obj\Debug\Lab05_LT_Bai12FastFoodOrder.exe
+D:\C#\PRN292\Lab05_LT_Bai12FastFoodOrder\Lab05_LT_Bai12FastFoodOrder\obj\Debug\Lab05_LT_Bai12FastFoodOrder.pdb

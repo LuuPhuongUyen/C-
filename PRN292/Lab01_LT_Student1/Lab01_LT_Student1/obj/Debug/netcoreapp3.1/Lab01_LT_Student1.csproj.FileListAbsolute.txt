@@ -1,0 +1,13 @@
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\bin\Debug\netcoreapp3.1\Lab01_LT_Student1.exe
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\bin\Debug\netcoreapp3.1\Lab01_LT_Student1.deps.json
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\bin\Debug\netcoreapp3.1\Lab01_LT_Student1.runtimeconfig.json
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\bin\Debug\netcoreapp3.1\Lab01_LT_Student1.runtimeconfig.dev.json
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\bin\Debug\netcoreapp3.1\Lab01_LT_Student1.dll
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\bin\Debug\netcoreapp3.1\Lab01_LT_Student1.pdb
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\obj\Debug\netcoreapp3.1\Lab01_LT_Student1.AssemblyInfoInputs.cache
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\obj\Debug\netcoreapp3.1\Lab01_LT_Student1.AssemblyInfo.cs
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\obj\Debug\netcoreapp3.1\Lab01_LT_Student1.csproj.CoreCompileInputs.cache
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\obj\Debug\netcoreapp3.1\Lab01_LT_Student1.dll
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\obj\Debug\netcoreapp3.1\Lab01_LT_Student1.pdb
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\obj\Debug\netcoreapp3.1\Lab01_LT_Student1.genruntimeconfig.cache
+D:\C#\Lab01_LT_Student1\Lab01_LT_Student1\obj\Debug\netcoreapp3.1\Lab01_LT_Student1.csprojAssemblyReference.cache

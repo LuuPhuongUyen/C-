@@ -1,0 +1,13 @@
+D:\C#\PRN292\StudentSort\StudentSort\obj\Debug\netcoreapp3.1\StudentSort.csprojAssemblyReference.cache
+D:\C#\PRN292\StudentSort\StudentSort\obj\Debug\netcoreapp3.1\StudentSort.AssemblyInfoInputs.cache
+D:\C#\PRN292\StudentSort\StudentSort\obj\Debug\netcoreapp3.1\StudentSort.AssemblyInfo.cs
+D:\C#\PRN292\StudentSort\StudentSort\obj\Debug\netcoreapp3.1\StudentSort.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\StudentSort\StudentSort\bin\Debug\netcoreapp3.1\StudentSort.exe
+D:\C#\PRN292\StudentSort\StudentSort\bin\Debug\netcoreapp3.1\StudentSort.deps.json
+D:\C#\PRN292\StudentSort\StudentSort\bin\Debug\netcoreapp3.1\StudentSort.runtimeconfig.json
+D:\C#\PRN292\StudentSort\StudentSort\bin\Debug\netcoreapp3.1\StudentSort.runtimeconfig.dev.json
+D:\C#\PRN292\StudentSort\StudentSort\bin\Debug\netcoreapp3.1\StudentSort.dll
+D:\C#\PRN292\StudentSort\StudentSort\bin\Debug\netcoreapp3.1\StudentSort.pdb
+D:\C#\PRN292\StudentSort\StudentSort\obj\Debug\netcoreapp3.1\StudentSort.dll
+D:\C#\PRN292\StudentSort\StudentSort\obj\Debug\netcoreapp3.1\StudentSort.pdb
+D:\C#\PRN292\StudentSort\StudentSort\obj\Debug\netcoreapp3.1\StudentSort.genruntimeconfig.cache

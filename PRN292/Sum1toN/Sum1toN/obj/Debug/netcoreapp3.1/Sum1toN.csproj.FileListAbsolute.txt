@@ -1,0 +1,12 @@
+D:\C#\PRN292\Sum1toN\Sum1toN\bin\Debug\netcoreapp3.1\Sum1toN.exe
+D:\C#\PRN292\Sum1toN\Sum1toN\bin\Debug\netcoreapp3.1\Sum1toN.deps.json
+D:\C#\PRN292\Sum1toN\Sum1toN\bin\Debug\netcoreapp3.1\Sum1toN.runtimeconfig.json
+D:\C#\PRN292\Sum1toN\Sum1toN\bin\Debug\netcoreapp3.1\Sum1toN.runtimeconfig.dev.json
+D:\C#\PRN292\Sum1toN\Sum1toN\bin\Debug\netcoreapp3.1\Sum1toN.dll
+D:\C#\PRN292\Sum1toN\Sum1toN\bin\Debug\netcoreapp3.1\Sum1toN.pdb
+D:\C#\PRN292\Sum1toN\Sum1toN\obj\Debug\netcoreapp3.1\Sum1toN.AssemblyInfoInputs.cache
+D:\C#\PRN292\Sum1toN\Sum1toN\obj\Debug\netcoreapp3.1\Sum1toN.AssemblyInfo.cs
+D:\C#\PRN292\Sum1toN\Sum1toN\obj\Debug\netcoreapp3.1\Sum1toN.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Sum1toN\Sum1toN\obj\Debug\netcoreapp3.1\Sum1toN.dll
+D:\C#\PRN292\Sum1toN\Sum1toN\obj\Debug\netcoreapp3.1\Sum1toN.pdb
+D:\C#\PRN292\Sum1toN\Sum1toN\obj\Debug\netcoreapp3.1\Sum1toN.genruntimeconfig.cache

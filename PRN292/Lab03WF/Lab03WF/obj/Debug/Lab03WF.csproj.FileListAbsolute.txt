@@ -1,0 +1,11 @@
+D:\C#\PRN292\Lab03WF\Lab03WF\bin\Debug\Lab03WF.exe.config
+D:\C#\PRN292\Lab03WF\Lab03WF\bin\Debug\Lab03WF.exe
+D:\C#\PRN292\Lab03WF\Lab03WF\bin\Debug\Lab03WF.pdb
+D:\C#\PRN292\Lab03WF\Lab03WF\obj\Debug\Lab03WF.csprojAssemblyReference.cache
+D:\C#\PRN292\Lab03WF\Lab03WF\obj\Debug\Lab03WF.Form1.resources
+D:\C#\PRN292\Lab03WF\Lab03WF\obj\Debug\Lab03WF.Properties.Resources.resources
+D:\C#\PRN292\Lab03WF\Lab03WF\obj\Debug\Lab03WF.csproj.GenerateResource.cache
+D:\C#\PRN292\Lab03WF\Lab03WF\obj\Debug\Lab03WF.csproj.CoreCompileInputs.cache
+D:\C#\PRN292\Lab03WF\Lab03WF\obj\Debug\Lab03WF.exe
+D:\C#\PRN292\Lab03WF\Lab03WF\obj\Debug\Lab03WF.pdb
+D:\C#\PRN292\Lab03WF\Lab03WF\obj\Debug\Lab03WF.UC_BC.resources

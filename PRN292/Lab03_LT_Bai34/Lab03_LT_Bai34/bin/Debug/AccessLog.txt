@@ -1,0 +1,44 @@
+﻿28-Oct-20 1:26:18 AM	Scientist
+Access
+28-Oct-20 1:25:47 AM	Technicians
+20 12:02:29 AM	Restrited Access!
+28-Oct-20 12:02:25 AM	Technicians
+28-Oct-20 12:02:29 AM	Restrited Access!
+28-Oct-20 12:02:32 AM	Restrited Access!
+28-Oct-20 12:02:25 AM	Technicians
+28-Oct-20 12:02:29 AM	Restrited Access!
+28-Oct-20 12:02:32 AM	Restrited Access!
+28-Oct-20 12:02:39 AM	Restrited Access!
+28-Oct-20 12:02:25 AM	Technicians
+28-Oct-20 12:02:29 AM	Restrited Access!
+28-Oct-20 12:02:32 AM	Restrited Access!
+28-Oct-20 12:02:39 AM	Restrited Access!
+28-Oct-20 12:02:45 AM	Custodians
+28-Oct-20 12:02:25 AM	Technicians
+28-Oct-20 12:02:29 AM	Restrited Access!
+28-Oct-20 12:02:32 AM	Restrited Access!
+28-Oct-20 12:02:39 AM	Restrited Access!
+28-Oct-20 12:02:45 AM	Custodians
+28-Oct-20 12:02:51 AM	Scientist
+28-Oct-20 12:02:25 AM	Technicians
+28-Oct-20 12:02:29 AM	Restrited Access!
+28-Oct-20 12:02:32 AM	Restrited Access!
+28-Oct-20 12:02:39 AM	Restrited Access!
+28-Oct-20 12:02:45 AM	Custodians
+28-Oct-20 12:02:51 AM	Scientist
+28-Oct-20 12:02:55 AM	Scientist
+28-Oct-20 12:02:25 AM	Technicians
+28-Oct-20 12:02:29 AM	Restrited Access!
+28-Oct-20 12:02:32 AM	Restrited Access!
+28-Oct-20 12:02:39 AM	Restrited Access!
+28-Oct-20 12:02:45 AM	Custodians
+28-Oct-20 12:02:51 AM	Scientist
+28-Oct-20 12:02:55 AM	Scientist
+28-Oct-20 12:03:04 AM	Scientist
+28-Oct-20 12:14:24 AM	Technicians
+28-Oct-20 12:14:24 AM	Technicians
+28-Oct-20 12:14:26 AM	Restrited Access!
+28-Oct-20 12:15:04 AM	Restrited Access!
+28-Oct-20 12:15:20 AM	Technicians
+28-Oct-20 12:15:20 AM	Technicians
+28-Oct-20 12:15:23 AM	Restrited Access!
